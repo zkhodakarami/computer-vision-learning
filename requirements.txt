@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pillow
+scikit-learn
+opencv-python
+torch
+torchvision
+medmnist
+tqdm
+nibabel
+pydicom
+certifi

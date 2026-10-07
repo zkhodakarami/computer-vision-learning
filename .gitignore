@@ -1,0 +1,18 @@
+# Python environment and cache
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded datasets (re-download with the lesson scripts)
+data/
+
+# Saved model files (can be large)
+*.pth
+*.pt
+*.onnx
+
+# Editor and system files
+.idea/
+.vscode/
+.DS_Store
+.ipynb_checkpoints/
