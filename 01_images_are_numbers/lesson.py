@@ -120,7 +120,7 @@ plt.close()
 all_labels = train.labels.flatten()
 counts = {label_names[str(k)]: int((all_labels == k).sum()) for k in np.unique(all_labels)}
 print("How many training images of each kind:", counts)
-print("Notice one kind is about 3 times more common. We will deal with that in Lesson 8.")
+print("Notice one kind is about 3 times more common. We will deal with that in Lesson 9.")
 
 fig, ax = plt.subplots(figsize=(6, 4))
 ax.bar(list(counts.keys()), list(counts.values()), color=["tab:green", "tab:red"])

@@ -27,23 +27,24 @@ python 01_images_are_numbers/lesson.py
 |---|---|---|
 | 1 | [An image is just a grid of numbers](01_images_are_numbers/README.md) | Done |
 | 2 | [Changing images](02_changing_images/README.md) | Done |
-| 3 | A first model that learns from pixels | Next |
-| 4 | A tiny neural network from scratch | Later |
-| 5 | The same thing in PyTorch | Later |
-| 6 | Convolutional networks | Later |
-| 7 | Training well | Later |
-| 8 | Scoring medical models honestly | Later |
-| 9 | Borrowing a pretrained model | Later |
-| 10 | Marking regions (segmentation) | Later |
-| 11 | Finding objects with boxes (detection) | Later |
-| 12 | Real medical file formats | Later |
-| 13 | Working in 3D | Later |
-| 14 | Vision Transformers | Later |
-| 15 | Foundation models | Later |
-| 16 | Showing where the model looked | Later |
-| 17 | Making it fast and shippable | Later |
-| 18 | Good habits | Later |
-| 19 | Portfolio project | Later |
+| 3 | [Math you will lean on](03_math_you_will_lean_on/README.md) | Done |
+| 4 | A first model that learns from pixels | Next |
+| 5 | A tiny neural network from scratch | Later |
+| 6 | The same thing in PyTorch | Later |
+| 7 | Convolutional networks | Later |
+| 8 | Training well | Later |
+| 9 | Scoring medical models honestly | Later |
+| 10 | Borrowing a pretrained model | Later |
+| 11 | Marking regions (segmentation) | Later |
+| 12 | Finding objects with boxes (detection) | Later |
+| 13 | Real medical file formats | Later |
+| 14 | Working in 3D | Later |
+| 15 | Vision Transformers | Later |
+| 16 | Foundation models | Later |
+| 17 | Showing where the model looked | Later |
+| 18 | Making it fast and shippable | Later |
+| 19 | Good habits | Later |
+| 20 | Portfolio project | Later |
 
 ## Dataset
 
