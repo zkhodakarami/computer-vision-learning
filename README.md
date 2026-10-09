@@ -21,6 +21,12 @@ source .venv/bin/activate
 python 01_images_are_numbers/lesson.py
 ```
 
+## Play with the ideas
+
+The [interactive](interactive/README.md) folder is a web page where every concept becomes something
+you can touch: sliders, clickable pictures, small experiments and quizzes. Double-click
+`interactive/index.html` to open it. Use it after reading a lesson, to check that the idea really landed.
+
 ## Progress
 
 | # | Lesson | Status |
