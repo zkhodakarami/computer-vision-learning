@@ -52,6 +52,14 @@ you can touch: sliders, clickable pictures, small experiments and quizzes. Doubl
 | 19 | Good habits | Later |
 | 20 | Portfolio project | Later |
 
+## Journal club
+
+Papers I am preparing to present, each with a step-by-step guide that builds up every idea the paper needs.
+
+| Paper | Guide |
+|---|---|
+| Ambient Diffusion Posterior Sampling (ICLR 2025): training diffusion models on incomplete MRI scans | [journal_club/ambient_dps](journal_club/ambient_dps/README.md) |
+
 ## Dataset
 
 Most lessons use [MedMNIST](https://medmnist.com/), a set of small, free medical image collections.
